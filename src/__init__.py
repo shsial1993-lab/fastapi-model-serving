@@ -1,0 +1,1 @@
+"""FastAPI model-serving template."""
